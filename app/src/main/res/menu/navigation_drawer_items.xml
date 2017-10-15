@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_houseLannister"
+            android:title="House Lannister"/>
+        <item
+            android:id="@+id/nav_houseStark"
+            android:title="House Stark"/>
+        <item
+            android:id="@+id/nav_houseTargaryen"
+            android:title="House Targaryen"/>
+        <item
+            android:id="@+id/nav_houseFrey"
+            android:title="House Frey"/>
+        <item
+            android:id="@+id/nav_houseGreyjoy"
+            android:title="House Greyjoy"/>
+        <item
+            android:id="@+id/nav_houseArryn"
+            android:title="House Arryn"/>
+
+    </group>
+
+</menu>
